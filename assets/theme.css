@@ -18,6 +18,14 @@ body {
     background-color: unset;
 }
 
+.header .wrapper-content .navbar-toggler {
+    border: none;
+}
+
+.header .wrapper-content .navbar-toggler:focus {
+    box-shadow: none;
+}
+
 .header .wrapper-content ul .nav-link {
     font-size: 13px;
     color: black;
@@ -282,7 +290,7 @@ body {
     }
     .header .wrapper-content ul .nav-link {
         padding-left: 70px;
-        padding-top: 20px;
+        padding-top: 50px;
         padding-bottom: 20px;
     }
 }
