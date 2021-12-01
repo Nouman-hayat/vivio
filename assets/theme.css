@@ -715,6 +715,7 @@ body {
     font-weight: 800;
     line-height: 2.9rem;
     margin-bottom: 20px;
+    line-height: 25px;
 }
 
 .hero-wrapper .wrapper-content h1 {
@@ -868,6 +869,15 @@ body {
 .map-tab-content iframe {
     width: 100%;
     height: 400px;
+}
+
+@media (max-width: 575.98px) {
+    .property-price .share-price p,
+    .property-price .share-price p span {
+        font-size: 20px;
+        font-weight: 700;
+        text-align: center;
+    }
 }
 
 
