@@ -943,5 +943,80 @@ body {
     margin-top: 5px;
 }
 
+.propert-author img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.bi-map {
+    color: black;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.invite-share {
+    font-size: 13px;
+}
+
+.share-wrapper button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.number-description {
+    width: 200px;
+}
+
+.number-value {
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.paricipate-wrapper a {
+    color: #11E09D;
+    font-size: 14px;
+}
+
+.bi-list {
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.sidebar-menu-wrapper .navbar-nav i {
+    margin-right: 20px;
+    font-size: 25px;
+}
+
+.username {
+    color: black;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.action-border {
+    border: unset;
+}
+
+.house-address {
+    font-size: 14px;
+}
+
+.form-validate-btn {
+    background-color: transparent;
+    border: 1px solid #E8EBEF;
+    margin-left: 5px;
+}
+
+.password-form {
+    background-color: transparent;
+    border: 1px solid #E8EBEF;
+    margin-left: 5px;
+}
+
 
 /* add new classes  */
