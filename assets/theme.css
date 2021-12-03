@@ -175,6 +175,15 @@ body {
 
 /* .qoutes-wrapper */
 
+.qoutes-wrapper {
+    background-color: #F8F8F8;
+    padding: 30px 0;
+}
+
+.qoutes-wrapper .wrapper-content {
+    background-color: #F8F8F8;
+}
+
 .qoutes-wrapper .qoute-content img {
     width: 8%;
     margin-bottom: 20px;
@@ -885,3 +894,54 @@ body {
 
 
 /* house detail */
+
+
+/* add new classes  */
+
+.discount-first {
+    font-size: 0.8rem;
+    color: #BFBFBF;
+}
+
+.house-title {
+    font-size: 0.7rem;
+    color: #BFBFBF;
+}
+
+.tokenize-property {
+    text-decoration: none;
+    padding: 20px 40px;
+    font-weight: 600;
+    background-color: #11E09D;
+    color: white;
+    display: inline-block;
+}
+
+.funds {
+    width: 100%;
+    padding: 30PX 0;
+    text-align: center;
+    color: #BFBFBF;
+    font-weight: 500;
+    border: 1PX solid rgb(155, 155, 155);
+}
+
+.funds-description {
+    font-size: 12px;
+    color: #7a7a7a;
+    text-align: center;
+}
+
+.total-egg {
+    color: black;
+    font-size: 20px;
+}
+
+.inner-heading {
+    font-size: 16px;
+    margin: 0;
+    margin-top: 5px;
+}
+
+
+/* add new classes  */
